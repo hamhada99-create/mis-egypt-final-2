@@ -1,0 +1,2 @@
+import {NextResponse} from "next/server";
+export async function POST(req:Request){const body=await req.json(); if(!body.text)return NextResponse.json({error:"text required"},{status:400}); return NextResponse.json({ok:true,question:{id:`q-${Date.now()}`,...body}},{status:201})}

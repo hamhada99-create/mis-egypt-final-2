@@ -1,0 +1,413 @@
+{
+  "academic_year": "2026-2027",
+  "source": {
+    "title": "دليل الخطط الدراسية - الإصدار الخامس",
+    "organization": "وزارة التعليم السعودية / المركز الوطني للمناهج",
+    "official_url": "https://moe.gov.sa/ar/mediacenter/MOEnews/DocLib/Curriculum_Guide_Fifth_Edition.pdf",
+    "plans_page": "https://www.moe.gov.sa/ar/education/generaleducation/StudyPlans/Pages/Study-plans.aspx",
+    "courses_service": "https://www.moe.gov.sa/ar/knowledgecenter/eservices/Pages/courses.aspx",
+    "verified": "2026-09-09"
+  },
+  "scope": "التعليم العام: المرحلة الابتدائية والمتوسطة",
+  "grades": [
+    {
+      "name": "الصف الأول الابتدائي",
+      "subjects": [
+        {
+          "name": "القرآن الكريم والدراسات الإسلامية",
+          "annual_max_lessons": 180
+        },
+        {
+          "name": "اللغة العربية",
+          "annual_max_lessons": 288
+        },
+        {
+          "name": "الرياضيات",
+          "annual_max_lessons": 180
+        },
+        {
+          "name": "العلوم",
+          "annual_max_lessons": 108
+        },
+        {
+          "name": "اللغة الإنجليزية",
+          "annual_max_lessons": 108
+        },
+        {
+          "name": "التربية الفنية",
+          "annual_max_lessons": 72
+        },
+        {
+          "name": "التربية البدنية والدفاع عن النفس",
+          "annual_max_lessons": 108
+        },
+        {
+          "name": "المهارات الحياتية والأسرية",
+          "annual_max_lessons": 36
+        }
+      ]
+    },
+    {
+      "name": "الصف الثاني الابتدائي",
+      "subjects": [
+        {
+          "name": "القرآن الكريم والدراسات الإسلامية",
+          "annual_max_lessons": 180
+        },
+        {
+          "name": "اللغة العربية",
+          "annual_max_lessons": 252
+        },
+        {
+          "name": "الرياضيات",
+          "annual_max_lessons": 216
+        },
+        {
+          "name": "العلوم",
+          "annual_max_lessons": 108
+        },
+        {
+          "name": "اللغة الإنجليزية",
+          "annual_max_lessons": 108
+        },
+        {
+          "name": "التربية الفنية",
+          "annual_max_lessons": 72
+        },
+        {
+          "name": "التربية البدنية والدفاع عن النفس",
+          "annual_max_lessons": 108
+        },
+        {
+          "name": "المهارات الحياتية والأسرية",
+          "annual_max_lessons": 36
+        }
+      ]
+    },
+    {
+      "name": "الصف الثالث الابتدائي",
+      "subjects": [
+        {
+          "name": "القرآن الكريم والدراسات الإسلامية",
+          "annual_max_lessons": 180
+        },
+        {
+          "name": "اللغة العربية",
+          "annual_max_lessons": 216
+        },
+        {
+          "name": "الرياضيات",
+          "annual_max_lessons": 216
+        },
+        {
+          "name": "العلوم",
+          "annual_max_lessons": 144
+        },
+        {
+          "name": "اللغة الإنجليزية",
+          "annual_max_lessons": 108
+        },
+        {
+          "name": "التربية الفنية",
+          "annual_max_lessons": 72
+        },
+        {
+          "name": "التربية البدنية والدفاع عن النفس",
+          "annual_max_lessons": 108
+        },
+        {
+          "name": "المهارات الحياتية والأسرية",
+          "annual_max_lessons": 36
+        }
+      ]
+    },
+    {
+      "name": "الصف الرابع الابتدائي",
+      "subjects": [
+        {
+          "name": "القرآن الكريم والدراسات الإسلامية",
+          "annual_max_lessons": 180
+        },
+        {
+          "name": "اللغة العربية",
+          "annual_max_lessons": 180
+        },
+        {
+          "name": "الدراسات الاجتماعية",
+          "annual_max_lessons": 72
+        },
+        {
+          "name": "الرياضيات",
+          "annual_max_lessons": 216
+        },
+        {
+          "name": "العلوم",
+          "annual_max_lessons": 144
+        },
+        {
+          "name": "اللغة الإنجليزية",
+          "annual_max_lessons": 108
+        },
+        {
+          "name": "المهارات الرقمية",
+          "annual_max_lessons": 72
+        },
+        {
+          "name": "التربية الفنية",
+          "annual_max_lessons": 36
+        },
+        {
+          "name": "التربية البدنية والدفاع عن النفس",
+          "annual_max_lessons": 72
+        },
+        {
+          "name": "المهارات الحياتية والأسرية",
+          "annual_max_lessons": 36
+        }
+      ]
+    },
+    {
+      "name": "الصف الخامس الابتدائي",
+      "subjects": [
+        {
+          "name": "القرآن الكريم والدراسات الإسلامية",
+          "annual_max_lessons": 180
+        },
+        {
+          "name": "اللغة العربية",
+          "annual_max_lessons": 180
+        },
+        {
+          "name": "الدراسات الاجتماعية",
+          "annual_max_lessons": 72
+        },
+        {
+          "name": "الرياضيات",
+          "annual_max_lessons": 216
+        },
+        {
+          "name": "العلوم",
+          "annual_max_lessons": 144
+        },
+        {
+          "name": "اللغة الإنجليزية",
+          "annual_max_lessons": 108
+        },
+        {
+          "name": "المهارات الرقمية",
+          "annual_max_lessons": 72
+        },
+        {
+          "name": "التربية الفنية",
+          "annual_max_lessons": 36
+        },
+        {
+          "name": "التربية البدنية والدفاع عن النفس",
+          "annual_max_lessons": 72
+        },
+        {
+          "name": "المهارات الحياتية والأسرية",
+          "annual_max_lessons": 36
+        }
+      ]
+    },
+    {
+      "name": "الصف السادس الابتدائي",
+      "subjects": [
+        {
+          "name": "القرآن الكريم والدراسات الإسلامية",
+          "annual_max_lessons": 180
+        },
+        {
+          "name": "اللغة العربية",
+          "annual_max_lessons": 180
+        },
+        {
+          "name": "الدراسات الاجتماعية",
+          "annual_max_lessons": 72
+        },
+        {
+          "name": "الرياضيات",
+          "annual_max_lessons": 216
+        },
+        {
+          "name": "العلوم",
+          "annual_max_lessons": 144
+        },
+        {
+          "name": "اللغة الإنجليزية",
+          "annual_max_lessons": 108
+        },
+        {
+          "name": "المهارات الرقمية",
+          "annual_max_lessons": 72
+        },
+        {
+          "name": "التربية الفنية",
+          "annual_max_lessons": 36
+        },
+        {
+          "name": "التربية البدنية والدفاع عن النفس",
+          "annual_max_lessons": 72
+        },
+        {
+          "name": "المهارات الحياتية والأسرية",
+          "annual_max_lessons": 36
+        }
+      ]
+    },
+    {
+      "name": "الأول المتوسط",
+      "subjects": [
+        {
+          "name": "القرآن الكريم والدراسات الإسلامية",
+          "annual_max_lessons": 288
+        },
+        {
+          "name": "التجويد",
+          "annual_max_lessons": 36
+        },
+        {
+          "name": "اللغة العربية",
+          "annual_max_lessons": 180
+        },
+        {
+          "name": "الدراسات الاجتماعية",
+          "annual_max_lessons": 72
+        },
+        {
+          "name": "الرياضيات",
+          "annual_max_lessons": 216
+        },
+        {
+          "name": "العلوم",
+          "annual_max_lessons": 144
+        },
+        {
+          "name": "اللغة الإنجليزية",
+          "annual_max_lessons": 144
+        },
+        {
+          "name": "المهارات الرقمية",
+          "annual_max_lessons": 72
+        },
+        {
+          "name": "التربية الفنية",
+          "annual_max_lessons": 36
+        },
+        {
+          "name": "التربية البدنية والدفاع عن النفس",
+          "annual_max_lessons": 36
+        },
+        {
+          "name": "المهارات الحياتية والأسرية",
+          "annual_max_lessons": 36
+        }
+      ]
+    },
+    {
+      "name": "الثاني المتوسط",
+      "subjects": [
+        {
+          "name": "القرآن الكريم والدراسات الإسلامية",
+          "annual_max_lessons": 288
+        },
+        {
+          "name": "التجويد",
+          "annual_max_lessons": 36
+        },
+        {
+          "name": "اللغة العربية",
+          "annual_max_lessons": 180
+        },
+        {
+          "name": "الدراسات الاجتماعية",
+          "annual_max_lessons": 72
+        },
+        {
+          "name": "الرياضيات",
+          "annual_max_lessons": 216
+        },
+        {
+          "name": "العلوم",
+          "annual_max_lessons": 144
+        },
+        {
+          "name": "اللغة الإنجليزية",
+          "annual_max_lessons": 144
+        },
+        {
+          "name": "المهارات الرقمية",
+          "annual_max_lessons": 72
+        },
+        {
+          "name": "التربية الفنية",
+          "annual_max_lessons": 36
+        },
+        {
+          "name": "التربية البدنية والدفاع عن النفس",
+          "annual_max_lessons": 36
+        },
+        {
+          "name": "المهارات الحياتية والأسرية",
+          "annual_max_lessons": 36
+        }
+      ]
+    },
+    {
+      "name": "الثالث المتوسط",
+      "subjects": [
+        {
+          "name": "القرآن الكريم والدراسات الإسلامية",
+          "annual_max_lessons": 252
+        },
+        {
+          "name": "التجويد",
+          "annual_max_lessons": 36
+        },
+        {
+          "name": "اللغة العربية",
+          "annual_max_lessons": 144
+        },
+        {
+          "name": "الدراسات الاجتماعية",
+          "annual_max_lessons": 72
+        },
+        {
+          "name": "الرياضيات",
+          "annual_max_lessons": 216
+        },
+        {
+          "name": "العلوم",
+          "annual_max_lessons": 144
+        },
+        {
+          "name": "اللغة الإنجليزية",
+          "annual_max_lessons": 144
+        },
+        {
+          "name": "المهارات الرقمية",
+          "annual_max_lessons": 72
+        },
+        {
+          "name": "التربية الفنية",
+          "annual_max_lessons": 36
+        },
+        {
+          "name": "التربية البدنية والدفاع عن النفس",
+          "annual_max_lessons": 36
+        },
+        {
+          "name": "المهارات الحياتية والأسرية",
+          "annual_max_lessons": 36
+        },
+        {
+          "name": "التفكير الناقد",
+          "annual_max_lessons": 72
+        }
+      ]
+    }
+  ],
+  "content_status": "official-plan-metadata",
+  "content_note": "أسماء المواد وتوزيع الحصص من دليل الخطط الرسمية. أسماء الوحدات والدروس والنص الكامل للكتب لا تُنسخ هنا؛ تُربط بالمقررات الرقمية الرسمية وفق الصلاحيات والمصادر المعتمدة."
+}

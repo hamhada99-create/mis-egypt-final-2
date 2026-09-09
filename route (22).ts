@@ -1,0 +1,2 @@
+import {NextResponse} from "next/server";
+export async function POST(req:Request){const b=await req.json();return NextResponse.json({ok:true,exam:{id:`exam-${Date.now()}`,title:b.title||"اختبار جديد",questionCount:b.count||4,durationSeconds:b.durationSeconds||90,status:"draft"}},{status:201})}

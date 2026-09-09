@@ -1,0 +1,3 @@
+import {NextResponse} from "next/server";
+import {dbQuery} from "@/lib/db";
+export async function GET(req:Request){try{const u=new URL(req.url),id=u.searchParams.get("userId");if(!id)return NextResponse.json({error:"userId required"},{status:400});return NextResponse.json({progress:await dbQuery(`SELECT * FROM student_progress WHERE user_id=$1`,[id])})}catch(e){return NextResponse.json({error:"Database query failed"},{status:503})}}

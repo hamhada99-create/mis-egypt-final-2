@@ -1,0 +1,2 @@
+import {NextResponse} from "next/server";
+export async function GET(){return NextResponse.json({attempts:[{id:"attempt-demo-1",student:"طالب تجريبي",exam:"اختبار الرياضيات",percentage:85,passed:true,submittedAt:new Date().toISOString()}]})}
